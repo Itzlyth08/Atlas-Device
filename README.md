@@ -1,112 +1,103 @@
 <div align="center">
 
-# 🧭 Atlas
+# 🧭 Atlas  
+### Open-Source Linux Carrier Platform  
 
-### Open-Source Linux Handheld Platform
+**Portable • Modular • Repairable • Built for Exploration**
 
-*Portable • Modular • Repairable • Built for Exploration*
+<br>
 
----
-
-![Status](https://img.shields.io/badge/Status-Planning-orange)
-![Platform](https://img.shields.io/badge/Platform-Radxa_Zero_2_Pro-blue)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+![Status](https://img.shields.io/badge/Status-Concept-orange?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Radxa_Zero_2_Pro-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🌎 What is Atlas?
+## 🌍 What is Atlas?
 
-Atlas is an open-source Linux handheld platform built around the Radxa Zero 2 Pro.
+Atlas is an open-source Linux carrier platform built around the :contentReference[oaicite:0]{index=0} Zero 2 Pro.
 
-Unlike a smartphone, Atlas is designed as a **carrier device** — a portable computing platform that can host different hardware modules and software solutions depending on the task.
+<br>
 
-Whether you're working in the field, experimenting with radios, building mesh networks, collecting sensor data, or simply carrying a Linux computer in your pocket, Atlas provides a flexible foundation to build upon.
+Unlike a smartphone or tablet, Atlas is not a finished consumer device.  
+It is a **modular computing foundation** designed to be extended, modified, and adapted.
 
----
+<br>
 
-## ✨ Core Principles
-
-🔓 **Open Development**
-- Documentation-first approach
-- Community-driven design
-
-🛠️ **Repairable**
-- Serviceable components
-- Designed for longevity
-
-🧩 **Modular**
-- Expandable hardware
-- Adaptable functionality
-
-🐧 **Linux First**
-- Built around open software
-- Developer-friendly environment
-
-🔋 **Portable**
-- Battery powered
-- Designed for mobile use
+> 🧭 Atlas is built for people who want control over their hardware, software, and systems.
 
 ---
 
-## 🎯 Potential Applications
+## 🔷 Core Identity
 
-| Application | Description |
-|------------|-------------|
-| 📡 Mesh Networking | Portable network nodes |
-| 📻 Radio Projects | LoRa, Meshtastic, SDR integration |
-| 🖥️ Linux Computing | Pocket-sized Linux workstation |
-| 🌡️ Sensor Platforms | Environmental monitoring |
-| 🔬 Development | Embedded and Linux testing |
-| 🚙 Field Operations | Portable communications and data collection |
+<div align="center">
+
+### “A portable Linux system that becomes whatever you need it to be.”
+
+</div>
 
 ---
 
-## 🏗️ Hardware Foundation
+## ✨ Design Principles
 
-Current target platform:
+<table>
+<tr>
+<td width="50%">
 
-- Radxa Zero 2 Pro
-- Linux-based operating system
-- Rechargeable battery system
-- Integrated display
-- Physical controls
-- USB-C connectivity
-- Modular expansion interfaces
+### 🔓 Open by Design
+- Community-driven development  
+- Transparent documentation  
+- Open-source wherever possible  
 
----
+</td>
+<td width="50%">
 
-## 🤝 Contributing
+### 🛠️ Built to Be Repaired
+- Serviceable components  
+- Long-term usability  
+- Designed for maintenance  
 
-Atlas is an open project.
+</td>
+</tr>
 
-Whether you're interested in:
+<tr>
+<td>
 
-- Hardware design
-- Mechanical engineering
-- Embedded development
-- Linux software
-- Documentation
-- Testing
+### 🧩 Modular System
+- Expandable hardware design  
+- Future module support  
+- Flexible architecture  
 
-Your contributions are welcome.
+</td>
+<td>
 
----
+### 🐧 Linux First
+- Native Linux environment  
+- Full system control  
+- Developer-focused workflow  
 
-## 🚧 Project Status
+</td>
+</tr>
 
-**Early Planning & Architecture**
-
-Atlas is currently in the concept and research stage.
+</table>
 
 ---
 
 <div align="center">
 
-### 🧭 Atlas
+### 🔋 Field Ready
 
-**A Linux handheld built for exploration.**
+Battery-powered • Portable • Built for real environments
 
 </div>
+
+---
+
+## 🎯 What Atlas Can Become
+
+```text
+Atlas is not one device.
+It is a platform.
