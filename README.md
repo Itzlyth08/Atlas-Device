@@ -1,103 +1,84 @@
 <div align="center">
 
 # 🧭 Atlas  
-### Open-Source Linux Carrier Platform  
+### Open-Source Linux Carrier Platform
 
-**Portable • Modular • Repairable • Built for Exploration**
+**Radxa Zero 2 Pro Core • Modular • Portable • Repairable**
 
 <br>
 
 ![Status](https://img.shields.io/badge/Status-Concept-orange?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Radxa_Zero_2_Pro-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Core](https://img.shields.io/badge/Core-Radxa_Zero_2_Pro-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Linux-yellow?style=for-the-badge)
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🌍 What is Atlas?
+## 🌍 Overview
 
-Atlas is an open-source Linux carrier platform built around the :contentReference[oaicite:0]{index=0} Zero 2 Pro.
+Atlas is an open-source Linux carrier platform built around the Radxa Zero 2 Pro.
 
-<br>
+It turns the compute board into a complete portable system by adding power management, display support, controls, and expansion capability.
 
-Unlike a smartphone or tablet, Atlas is not a finished consumer device.  
-It is a **modular computing foundation** designed to be extended, modified, and adapted.
-
-<br>
-
-> 🧭 Atlas is built for people who want control over their hardware, software, and systems.
+Atlas is designed for experimentation, field use, and modular computing — not as a phone or tablet replacement.
 
 ---
 
-## 🔷 Core Identity
+## 🧩 Core Idea
 
-<div align="center">
-
-### “A portable Linux system that becomes whatever you need it to be.”
-
-</div>
+> A portable Linux system built around a single powerful core, extended into a full handheld platform.
 
 ---
 
-## ✨ Design Principles
+## ✨ Features
 
-<table>
-<tr>
-<td width="50%">
+- 🐧 Linux-first system
+- 🧩 Modular expansion design
+- 🛠️ Repairable architecture
+- 🔋 Battery-powered portability
+- 📡 Designed for communication + experimentation
 
-### 🔓 Open by Design
-- Community-driven development  
-- Transparent documentation  
-- Open-source wherever possible  
+---
 
-</td>
-<td width="50%">
+## 🎯 Use Cases
 
-### 🛠️ Built to Be Repaired
-- Serviceable components  
-- Long-term usability  
-- Designed for maintenance  
+- Mesh networking (LoRa / Meshtastic)
+- SDR and radio projects
+- Portable Linux computing
+- Sensor and data systems
+- Field development platform
 
-</td>
-</tr>
+---
 
-<tr>
-<td>
+## 🏗️ Hardware Concept
 
-### 🧩 Modular System
-- Expandable hardware design  
-- Future module support  
-- Flexible architecture  
+- Core: Radxa Zero 2 Pro  
+- Linux-based OS  
+- Integrated display (planned)  
+- Physical input controls  
+- USB-C power + data  
+- Expansion-ready design  
 
-</td>
-<td>
+---
 
-### 🐧 Linux First
-- Native Linux environment  
-- Full system control  
-- Developer-focused workflow  
+## 📘 Documentation
 
-</td>
-</tr>
+Full system details, hardware design, and development notes are available in the **project wiki**.
 
-</table>
+---
+
+## 🚧 Status
+
+**Early concept phase — hardware design in progress**
 
 ---
 
 <div align="center">
 
-### 🔋 Field Ready
+# 🧭 Atlas
 
-Battery-powered • Portable • Built for real environments
+### Open hardware. Open software. Built to be extended.
 
 </div>
-
----
-
-## 🎯 What Atlas Can Become
-
-```text
-Atlas is not one device.
-It is a platform.
